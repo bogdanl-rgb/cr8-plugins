@@ -1,0 +1,40 @@
+company,domain,status,paid_engagements,signals
+Sample Co 0603,sample0603.example,not written yet,,new_leader | product_launch
+Sample Co 0818,sample0818.example,not written yet,,new_leader | funding | hiring_for_role
+Sample Co 0860,sample0860.example,not written yet,,new_leader | funding
+Sample Co 0062,sample0062.example,not written yet,,new_leader | funding
+Sample Co 0737,sample0737.example,not written yet,,new_leader | product_launch
+Sample Co 0901,sample0901.example,new signal since you wrote on 28 Jan 2026,,new_leader | funding
+Sample Co 0667,sample0667.example,not written yet,,new_leader | product_launch
+Sample Co 0154,sample0154.example,not written yet,,new_leader | hiring_for_role
+Sample Co 0567,sample0567.example,not written yet,,new_leader | new_office
+Sample Co 0813,sample0813.example,not written yet,,new_leader | product_launch
+Sample Co 0927,sample0927.example,not written yet,,new_leader | funding | product_launch
+Sample Co 0474,sample0474.example,not written yet,,new_leader | hiring_for_role | product_launch
+Sample Co 0833,sample0833.example,not written yet,,new_leader | hiring_for_role
+Sample Co 0591,sample0591.example,not written yet,,new_leader | product_launch
+Sample Co 0890,sample0890.example,not written yet,,new_leader | funding | hiring_for_role
+Sample Co 0799,sample0799.example,not written yet,,new_leader | funding | hiring_for_role
+Sample Co 0240,sample0240.example,not written yet,,new_leader | new_office
+Sample Co 0853,sample0853.example,not written yet,,new_leader | funding
+Sample Co 0618,sample0618.example,not written yet,,new_leader | hiring_for_role
+Sample Co 0294,sample0294.example,not written yet,,new_leader | hiring_for_role
+Sample Co 0322,sample0322.example,not written yet,,new_leader | hiring_for_role
+Sample Co 0122,sample0122.example,not written yet,,job_post_names_tool | funding | product_launch
+Sample Co 0590,sample0590.example,not written yet,,job_post_names_tool | new_office
+Sample Co 0069,sample0069.example,not written yet,,job_post_names_tool | product_launch | new_office
+Sample Co 0163,sample0163.example,not written yet,,job_post_names_tool | funding | hiring_for_role
+Sample Co 0793,sample0793.example,not written yet,,job_post_names_tool | hiring_for_role
+Sample Co 0842,sample0842.example,not written yet,,funding | hiring_for_role
+Sample Co 0241,sample0241.example,not written yet,,funding | hiring_for_role | new_office
+Sample Co 0726,sample0726.example,not written yet,,funding | hiring_for_role
+Sample Co 0396,sample0396.example,not written yet,,funding | hiring_for_role
+Sample Co 0021,sample0021.example,not written yet,,hiring_for_role | product_launch
+Sample Co 0967,sample0967.example,not written yet,,hiring_for_role | product_launch | new_office
+Sample Co 0760,sample0760.example,not written yet,,hiring_for_role | new_office
+Sample Co 0499,sample0499.example,not written yet,,hiring_for_role | product_launch
+Sample Co 0616,sample0616.example,not written yet,,hiring_for_role | new_office
+Sample Co 0115,sample0115.example,not written yet,,hiring_for_role | product_launch | new_office
+Sample Co 0882,sample0882.example,not written yet,,hiring_for_role | product_launch
+Sample Co 0264,sample0264.example,not written yet,,hiring_for_role | product_launch
+Sample Co 0516,sample0516.example,not written yet,,product_launch | new_office

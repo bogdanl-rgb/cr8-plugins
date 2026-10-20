@@ -1,0 +1,13 @@
+# exclude: placeholder employer pages. Exact names, case does not matter. Exclude every page that carries the name.
+Stealth AI Startup
+Stealth Startup
+Stealth
+Multiple Companies
+Various Companies
+Angel Investor
+Freelancer
+Self-employed
+Something new
+Confidential
+# review: a fictional community, for the sample only. A judgment call, never excluded by default.
+Sample Community 01

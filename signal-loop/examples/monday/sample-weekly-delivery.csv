@@ -1,0 +1,12 @@
+week_start,list,ad_set_name,spend_week,impressions_week,impressions_30d,reach_30d,reach_cumulative,audience_size
+2026-10-12,AB,AB · consideration,140,1750,1750,900,900,2200
+2026-10-12,C,C · awareness,60,1000,1000,900,900,3400
+2026-10-19,AB,AB · consideration,140,1700,3450,1120,1120,2200
+2026-10-19,AB,AB · offer,98,1400,1400,410,410,2200
+2026-10-19,C,C · awareness,60,950,1950,1700,1700,3400
+2026-10-26,AB,AB · consideration,145,1700,5150,1240,1240,2200
+2026-10-26,AB,AB · offer,100,1000,2400,600,600,2200
+2026-10-26,C,C · awareness,60,950,2900,2300,2300,3400
+2026-11-02,AB,AB · consideration,145,1650,6800,1330,1330,2200
+2026-11-02,AB,AB · offer,99,660,3060,685,685,2200
+2026-11-02,C,C · awareness,60,950,3850,2750,2750,3400

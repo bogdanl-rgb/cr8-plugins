@@ -1,0 +1,12 @@
+# exclude: placeholder employer pages. Exact names, case does not matter. Exclude every page that carries the name.
+Stealth AI Startup
+Stealth Startup
+Stealth
+Multiple Companies
+Various Companies
+Angel Investor
+Freelancer
+Self-employed
+Something new
+Confidential
+# review: communities, accelerators and investor groups that members list as their employer. Real organizations, not placeholders. Add the ones your account shows, one a line. A judgment call, never excluded by default.

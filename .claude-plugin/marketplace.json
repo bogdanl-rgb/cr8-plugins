@@ -1,0 +1,13 @@
+{
+  "name": "cr8",
+  "owner": { "name": "Bogdan Liutic", "url": "https://cr8.eco" },
+  "description": "LinkedIn Ads skills by Bogdan Liutic, CR8.",
+  "plugins": [
+    {
+      "name": "signal-loop",
+      "source": "./signal-loop",
+      "description": "Read-only checks for LinkedIn Ads on a signal list: signal-list-check, placeholder-page-check, list-dose-check, warm-account-router.",
+      "version": "1.0.0"
+    }
+  ]
+}

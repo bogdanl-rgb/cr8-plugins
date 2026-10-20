@@ -1,0 +1,4 @@
+lead_id,created_date,form_id,test_lead,email_domain
+L-1001,11/2/2026,form-demo,false,sample0517.example
+L-1002,10/30/2026,form-demo,true,sample0702.example
+L-1003,9/20/2026,form-guide,false,sample0301.example

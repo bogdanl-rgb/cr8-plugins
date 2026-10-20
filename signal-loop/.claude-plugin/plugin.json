@@ -1,0 +1,10 @@
+{
+  "name": "signal-loop",
+  "displayName": "Signal Loop",
+  "version": "1.0.0",
+  "description": "Read-only checks for LinkedIn Ads on a signal list: is the list warm, is the dose right, are the clicks from real companies, and which companies a person should write to this week. Runs on your Campaign Manager exports and your own CSVs. Nothing is sent or changed.",
+  "author": { "name": "Bogdan Liutic", "url": "https://cr8.eco" },
+  "homepage": "https://cr8.eco",
+  "license": "MIT AND CC-BY-4.0",
+  "keywords": ["linkedin-ads", "abm", "signals", "account-based"]
+}

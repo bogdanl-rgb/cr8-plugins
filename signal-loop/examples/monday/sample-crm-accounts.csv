@@ -1,0 +1,17 @@
+company,domain,deal_stage,owner,stage_date,last_outbound_date
+Sample Co 0005,sample0005.example,won,Owner A,2026-03-12,
+Sample Co 0042,sample0042.example,open,Owner C,2026-09-30,
+Sample Co 0050,sample0050.example,won,Owner B,2026-05-20,
+Sample Co 0099,sample0099.example,open,Owner A,2026-10-14,
+Sample Co 0123,sample0123.example,won,Owner C,2025-11-04,
+Sample Co 0200,sample0200.example,lost,Owner A,2026-04-02,2026-03-20
+Sample Co 0233,sample0233.example,lost,Owner B,2026-06-15,2026-06-01
+Sample Co 0300,sample0300.example,none,,,
+Sample Co 0350,sample0350.example,open,Owner B,2026-10-21,
+Sample Co 0456,sample0456.example,won,Owner A,2026-08-28,
+Sample Co 0517,sample0517.example,open,Owner B,2026-11-04,2026-11-03
+Sample Co 0600,sample0600.example,open,Owner C,2026-08-19,
+Sample Co 0700,sample0700.example,none,,,
+Sample Co 0789,sample0789.example,won,Owner B,2026-01-15,
+Sample Co 0901,sample0901.example,lost,Owner C,2026-02-10,2026-01-28
+Sample Co 0005,sample0005.example,lost,Owner A,2025-01-10,2024-12-02

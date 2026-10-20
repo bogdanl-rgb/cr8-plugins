@@ -1,0 +1,44 @@
+cr8-plugins, a plugin marketplace by Bogdan Liutic, CR8 (cr8.eco)
+
+This repository carries two licenses.
+
+1. Text: every SKILL.md file, every file in a references/ folder, every README,
+   SCENARIO.md and the sample data in examples/. Licensed under the Creative
+   Commons Attribution 4.0 International license (CC BY 4.0). You may share and
+   adapt it for any purpose, also commercially, if you give credit as
+   "Bogdan Liutic, CR8 (cr8.eco)", link to the license and say what you changed.
+   Full terms: https://creativecommons.org/licenses/by/4.0/
+
+2. Code: every file in a scripts/ folder and the manifests in every
+   .claude-plugin/ folder.
+   Licensed under the MIT License below.
+
+Names. "Signal Loop" and "CR8" are CR8's names for its method and its practice.
+The licenses above do not cover them (CC BY 4.0 section 2(b)(2) leaves
+trademarks out). DemandSense may publish, package and edit this plugin for The
+AI Standard under the names signal-loop and Signal Loop, with credit to Bogdan
+Liutic, CR8 (cr8.eco), once he has seen the final version. Any other adapted
+version uses another name and does not suggest that CR8 or Bogdan Liutic
+endorses it.
+
+MIT License
+
+Copyright (c) 2026 Bogdan Liutic, CR8
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

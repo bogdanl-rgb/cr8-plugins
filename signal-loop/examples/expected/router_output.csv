@@ -1,0 +1,10 @@
+company,domain,list,list_move,route,reason,paid_impressions,paid_clicks,paid_engagements,second_signal,crm_state,owner,roles_to_find,timing,thread_check,card_approved_at,first_message_at,lag_hours,next_review_date
+Sample Co 0014,sample0014.example,A,stays A,card,12 paid engagements is at or above 10 on its own.,260,10,12,"return visit (2 days, last 4 Nov 2026)",no deal,,"Head of Marketing, then the VP or C-level who owns the budget, then whoever would run it",340 staff: all at once,not run,,,,2026-11-23
+Sample Co 0233,sample0233.example,B,B to A,card,"4 paid engagements plus return visit (2 days, last 3 Nov 2026) and like on your post 6 Nov 2026.",90,3,4,"return visit (2 days, last 3 Nov 2026) | like on your post 6 Nov 2026","lost 15 Jun 2026, public signal since",Owner B,"Head of Marketing, then the VP or C-level who owns the budget, then whoever would run it",120 staff: write to the next person once the last has had 7 days to reply,not run,,,,2026-11-23
+Sample Co 0517,sample0517.example,C,,note to owner,"open deal: tell the owner, no new outreach",120,4,5,form fill 2 Nov 2026,open deal since 4 Nov 2026,Owner B,,,,,,,2026-11-23
+Sample Co 0301,sample0301.example,B,,watch,"6 paid engagements, no second signal",150,5,6,,no deal,,,,,,,,2026-11-16
+Sample Co 0702,sample0702.example,C,,watch,"3 paid engagements, no second signal",40,3,3,,no deal,,,,,,,,2026-11-16
+Sample Co 0820,sample0820.example,C,,organic,"organic engagement only: labeled, no alert",25,,,,no deal,,,,,,,,2026-11-16
+Sample Co 0610,sample0610.example,B,,quiet,"second signal, paid engagements under LinkedIn's reporting minimum",60,,,comment on your post 5 Nov 2026,no deal,,,,,,,,2026-11-16
+Sample Co 0400,sample0400.example,B,,holdout check,held-out company served (40 paid impressions): check pages that share its name or parent,40,,,,,,,,,,,,
+Sample Co 0005,sample0005.example,off list,,excluded but served,"customer in your CRM, yet served: check your exclusions",110,6,7,,won,Owner A,,,,,,,

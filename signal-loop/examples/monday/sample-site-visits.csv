@@ -1,0 +1,14 @@
+domain,visit_date,page
+sample0014.example,2026-10-28,/pricing
+sample0014.example,2026-11-04,/case-studies
+sample0233.example,2026-10-21,/blog/signal-guide
+sample0233.example,2026-11-03,/pricing
+sample0301.example,2026-10-25,/careers
+sample0301.example,2026-11-02,/careers/sales-lead
+sample0517.example,2026-11-02,/demo
+sample0702.example,2026-10-02,/pricing
+sample0702.example,2026-10-05,/demo
+sample0950.example,2026-11-01,/blog
+outside02.example,2026-10-30,/
+outside04.example,2026-11-05,/pricing
+outside04.example,2026-11-06,/pricing

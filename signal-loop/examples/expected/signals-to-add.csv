@@ -1,0 +1,3 @@
+domain,signal_key,signal_date,evidence_url
+sample0014.example,ad_alert,2026-11-09,"companies export 2026-10-10 to 2026-11-08, 12 paid engagements"
+sample0233.example,ad_alert,2026-11-09,"companies export 2026-10-10 to 2026-11-08, 4 paid engagements"
