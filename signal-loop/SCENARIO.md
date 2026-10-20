@@ -8,7 +8,7 @@ This is the full runbook. The scenario page in The AI Standard: LinkedIn Ads is 
 
 ## For the business owner
 
-**What you get.** Your LinkedIn ads reach only 500 to 1,000 companies that fit your buyer. Companies with 2 or more dated signals see your ads from day one, and a person on your team writes to each of them from day 7, in signal order. Every Monday you also get a card for any company that engaged far more than the ads explain, saying what it did and who to write to. An open deal goes to its owner as a note instead. By week 6 you compare engaged companies with the number you wrote down before launch. At quarter end you count meetings among one-signal companies that got your ads, where the ads work alone, and among a group of them you held back.
+**What you get.** Your LinkedIn ads reach only 500 to 1,000 companies that fit your buyer. Companies with 2 or more dated signals see your ads from day one, and a person on your team writes to each of them from day 7, in signal order. Every Monday you also get a card for any company that engaged far more than the ads explain, saying what it did and who to write to. An open deal goes to its owner as a note instead. By week 6 you compare engaged companies with the number you wrote down before launch. Each company sits in one of three lists: A has 2 or more dated signals, B has 1, C fits but has none yet. At quarter end you count meetings in two groups of one-signal companies: those that got your ads, and about 100 you held back.
 
 **It catches waste first, too.** One ad set on my own account got 49% of its clicks from people listed at "Stealth AI Startup", 350 of 708 from 7 Aug to 5 Sep 2026. People pick that placeholder page instead of a real employer. The set ran broad and cheap, the opposite of a signal list.
 
@@ -18,7 +18,7 @@ This is the full runbook. The scenario page in The AI Standard: LinkedIn Ads is 
 - One named person's Monday: four exports, up to 5 cards, and the messages after each yes.
 - Messages to every company with 2 or more signals, from day 7. In the sample, 40 A companies at month start and up to 120 messages: one per person, up to 3 people a company.
 - Someone checks 500 to 1,000 companies for fresh signals once a month. The plugin doesn't find them.
-- About 100 companies with a signal get no ads and no messages for the quarter. That's the price of a fair count. Within a year it shows a big gap, not a small one.
+- About 100 companies with a signal get no ads and no messages for the quarter. That's the price of a fair test. Within a year it can show whether the ads made a big difference, not a small one.
 
 The checks are free. The work is the weekly part, and I run it on your own ad account. You keep the list, the ads and the records. Want the loop run for you? I start with a free map of your signals, drawn with you on a call. [cr8.eco](https://cr8.eco/?utm_source=signal-loop-plugin)
 
@@ -26,7 +26,7 @@ The checks are free. The work is the weekly part, and I run it on your own ad ac
 
 > **Where I disagree with the default**
 >
-> LinkedIn suggests starting broad, with ad sets of at least 50,000 members. I go the other way. My signal lists are 500 to 1,000 companies, about 2,500 to 5,000 people, sorted by a dated reason to buy now. A filter tells you who. A signal tells you when. Run a company with a fresh signal cold and it gets under 3 to 5 views in 90 days, right when it has a reason to buy. So I plan about 5 views a person a month: well above the cold band, and up to the floor of the retargeting band over 90 days. Fit-only companies stay cold until a signal shows up.
+> LinkedIn suggests starting broad, with ad sets of at least 50,000 members. I go the other way. My signal lists are 500 to 1,000 companies, about 2,500 to 5,000 people, sorted by a dated reason to buy now. A filter tells you who. A signal tells you when. Run a company with a fresh signal in the cold band, under 3 to 5 views in 90 days, and it barely sees you right when it has a reason to buy. So I plan about 5 views a person a month: well above the cold band, and up to the floor of the retargeting band over 90 days. Fit-only companies stay cold until a signal shows up.
 
 You feed it LinkedIn Campaign Manager's own exports, plus CSVs from your CRM and your site analytics. There are four read-only skills, and each comes with a sample test you can run first. Every threshold says where it comes from: my own account, a LinkedIn help page, or my plan. The placeholder check runs before you read any rate.
 
