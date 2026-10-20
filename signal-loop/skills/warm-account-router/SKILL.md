@@ -85,7 +85,7 @@ Then the weekly chain, printed even at zero (engaged against plan, alerts, appro
 
 - Engagements aren't people. On my own account, 2,061 ad engagements turned out to be about 1,000 people.
 - I've seen the Companies export run about 2 days behind. It also blanks values under LinkedIn's reporting minimum. That's why this runs weekly.
-- At about 5 people a company, 40% to 50% of them reached and 5 views each, a company sees 10 to 13 paid views a month. So an alert is rare, and it marks a company that engaged far more than the dose predicts. Most Mondays you'll get no card, and the work is the A list. Write the zeros down too.
+- At 5 to 10 people a company, 40% to 50% of them reached and 5 views each, a company sees 10 to 25 paid views a month. So an alert is rare, and it marks a company that engaged far more than the dose predicts. Most Mondays you'll get no card, and the work is the A list. Write the zeros down too.
 - A person counts under every current employer, so a company can show up through someone's second job.
 - At a company under 10 staff, a company row can point to one person. So the router drafts no card or note for it, doesn't move it up a list, and shows no paid engagements for it on the A queue. Never name the engagement anywhere.
 - "Excluded but served" matches the CRM by exact name only. "Acme GmbH" in the CRM never matches "Acme".

@@ -109,7 +109,7 @@ Run one ad set per list, and rotate the offer in as an ad, not as a second ad se
 
 On A and B the ads start with consideration, meaning case studies and guides, with the offer rotated in as one of the ads. C starts with awareness (the founder's posts run as ads), then case studies, and the offer comes last. A and B get about 5 views a person a month. C runs cold for awareness, at the size it is, until a signal moves a company up a list.
 
-The dose is how many times each person sees your ads in a month, and it caps the spend a list can hold. It counts every ad set on the list together. Whatever's left of your budget goes to the C list or a second signal list. Never to more views for the same people. So one signal list holds only so much spend, $352 to $440 a month in the made-up example above. A bigger budget means more signal lists from the same market, each at its own dose. The sample still runs two ad sets on one list, on purpose, so you can see the check catch it.
+The dose is how many times each person sees your ads in a month, and it caps the spend a list can hold. It counts every ad set on the list together. Whatever's left of your budget goes to the C list or a second signal list. Never to more views for the same people. So one signal list holds only so much spend, $800 to $1,000 a month in the made-up example above. A bigger budget means more signal lists from the same market, each at its own dose. The sample still runs two ad sets on one list, on purpose, so you can see the check catch it.
 
 Target the uploaded list plus the job titles that own what you sell, every variant, with the countries set wide. Then plan the dose on that ad set's audience size, not on the list's matched count.
 
@@ -143,7 +143,7 @@ Placeholders go first, because of my own ad set above. It ran broad and cheap: a
 
 Once a week is enough. Form fills and replies should still get a human within minutes, but company engagement can't move that fast. I've seen the Companies export run about 2 days behind, and it blanks any value under LinkedIn's reporting minimum.
 
-At about 5 people a company, 40% to 50% of them reached and 5 views each, a company sees 10 to 13 paid views a month. So an alert is rare, and it marks a company that engaged far more than the dose predicts. Most Mondays you'll get no card, and the work is the A list. Write the zeros down too.
+At 5 to 10 people a company, 40% to 50% of them reached and 5 views each, a company sees 10 to 25 paid views a month. So an alert is rare, and it marks a company that engaged far more than the dose predicts. Most Mondays you'll get no card, and the work is the A list. Write the zeros down too.
 
 ### Step 4. A human writes (the same day as the yes)
 
