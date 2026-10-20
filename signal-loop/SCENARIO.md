@@ -2,22 +2,22 @@
 
 Built by [Bogdan Liutic](https://www.linkedin.com/in/bgdn), CR8 ([cr8.eco](https://cr8.eco/?utm_source=signal-loop-plugin))
 
-Every Monday this tells you which companies on your target list a person should write to this week, and why now. Your ads go only to that list, sorted by a dated, public reason to buy, like a new leader, a job ad or a funding round. It's the Signal Loop from my playbook in Kyle Poyar's Growth Unhinged (13 Sep 2026), rebuilt as free checks you run on your own exports.
+Ok, so every Monday this tells you which companies on your target list a person should write to this week + why now. Your ads go only to that list, sorted by a dated, public reason to buy, like a new leader, a job ad or a funding round. It's the Signal Loop from my playbook in Kyle Poyar's Growth Unhinged (13 Sep 2026), rebuilt as free checks you run on your own exports. Enjoy.
 
 This is the full runbook. The scenario page in The AI Standard: LinkedIn Ads is cut from it.
 
 ## For the business owner
 
-**What you get.** Your LinkedIn ads reach only 500 to 1,000 companies that fit your buyer. Companies with 2 or more dated signals see your ads from day one, and a person on your team writes to each of them from day 7, in signal order. Every Monday you also get a card for any company that engaged far more than the ads explain, saying what it did and who to write to. An open deal goes to its owner as a note instead. By week 6 you compare engaged companies with the number you wrote down before launch. Each company sits in one of three lists: A has 2 or more dated signals, B has 1, C fits but has none yet. At quarter end you count meetings in two groups of one-signal companies: those that got your ads, and about 100 you held back.
+**What you get.** Your LinkedIn ads reach only the companies on your list: 1,000 or more that fit your buyer, and 10,000 is better. Each one sits in one of three lists: A has 2 or more dated signals, B has 1, C fits but has none yet. Companies with 2 or more dated signals see your ads from day one, and a person on your team writes to each of them from day 7, in signal order. Every Monday you also get a card for any company that engaged far more than the ads explain, saying what it did and who to write to. An open deal goes to its owner as a note instead. By week 6 you compare engaged companies with the number you wrote down before launch. At quarter end you count meetings in two groups of one-signal companies: those that got your ads, and about 100 you held back.
 
-**It catches waste first, too.** One ad set on my own account got 49% of its clicks from people listed at "Stealth AI Startup", 350 of 708 from 7 Aug to 5 Sep 2026. People pick that placeholder page instead of a real employer. The set ran broad and cheap, the opposite of a signal list.
+**Btw, it catches waste first, too.** For ex, one ad set on my own account got 49% of its clicks from people listed at "Stealth AI Startup", 350 of 708 from 7 Aug to 5 Sep 2026. People pick that placeholder page instead of a real employer. The set ran broad and cheap, the opposite of a signal list (meh).
 
 **What it costs.**
 
-- The ad budget your list can hold. A made-up example: an ad set of 2,200 people at $80 per 1,000 views holds $352 to $440 a month at my planned dose. Step 2 works yours out from your own price. Above that, add a second signal list from the same market, or let the cold C list carry the rest.
+- The ad budget your list can hold. A made-up example: an ad set of 5,000 people at $80 per 1,000 views holds $800 to $1,000 a month at my planned dose. Step 2 works yours out from your own price. Above that, add a second signal list from the same market, or let the cold C list carry the rest.
 - One named person's Monday: four exports, up to 5 cards, and the messages after each yes.
 - Messages to every company with 2 or more signals, from day 7. In the sample, 40 A companies at month start and up to 120 messages: one per person, up to 3 people a company.
-- Someone checks 500 to 1,000 companies for fresh signals once a month. The plugin doesn't find them.
+- Someone checks the list, 1,000 companies or more, for fresh signals once a month. The plugin doesn't find them.
 - About 100 companies with a signal get no ads and no messages for the quarter. That's the price of a fair test. Within a year it can show whether the ads made a big difference, not a small one.
 
 The checks are free. The work is the weekly part, and I run it on your own ad account. You keep the list, the ads and the records. Want the loop run for you? I start with a free map of your signals, drawn with you on a call. [cr8.eco](https://cr8.eco/?utm_source=signal-loop-plugin)
@@ -26,7 +26,7 @@ The checks are free. The work is the weekly part, and I run it on your own ad ac
 
 > **Where I disagree with the default**
 >
-> LinkedIn suggests starting broad, with ad sets of at least 50,000 members. I go the other way. My signal lists are 500 to 1,000 companies, about 2,500 to 5,000 people, sorted by a dated reason to buy now. A filter tells you who. A signal tells you when. Run a company with a fresh signal in the cold band, under 3 to 5 views in 90 days, and it barely sees you right when it has a reason to buy. So I plan about 5 views a person a month: well above the cold band, and up to the floor of the retargeting band over 90 days. Fit-only companies stay cold until a signal shows up.
+> LinkedIn suggests starting broad, with ad sets of at least 50,000 members. I get there differently. My signal lists start at 1,000 companies, at 5 to 10 decision-makers each, so 5,000 to 10,000 people, sorted by a dated reason to buy now. I get to 50,000 and past it with more signal lists side by side, never with wider filters. A filter tells you who. A signal tells you when. Run a company with a fresh signal in the cold band, under 3 to 5 views in 90 days, and it barely sees you right when it has a reason to buy. So I plan about 5 views a person a month: well above the cold band, and up to the floor of the retargeting band over 90 days. Fit-only companies stay cold until a signal shows up.
 
 You feed it LinkedIn Campaign Manager's own exports, plus CSVs from your CRM and your site analytics. There are four read-only skills, and each comes with a sample test you can run first. Every threshold says where it comes from: my own account, a LinkedIn help page, or my plan. The placeholder check runs before you read any rate.
 
@@ -73,7 +73,7 @@ Signal rows come from public, dated sources you're allowed to use: careers pages
 
 First: a deal is worth $10,000 or more over a customer's life. Otherwise the math just doesn't fit. Second: your market holds 10,000 or more decision-makers. People are not sitting on LinkedIn all the time (surprise!). You need critical mass for LinkedIn ads to work at any given moment. Third, the obvious one: your buyer is on LinkedIn. If any of the three fails, stop here.
 
-That 10,000 is your market. The list in step 1 is the slice of it you sort by signal, 500 to 1,000 companies.
+That 10,000 is your market. The list in step 1 is the slice of it you sort by signal, 1,000 companies or more.
 
 ### Step 1. The list (monthly)
 
@@ -89,11 +89,11 @@ A signal is something a company did in public that tells you why now. Its source
 
 A company with 2 or more different fresh signals goes on the A list. Exactly 1 puts it on B. C is fit only, a company that matches your buyer profile and has no signal yet. Not wrong, just not now. And one signal firing twice still counts as one. Two different dated signals are a company raising its hand in public. That's why A gets a person from day 7, clicked or not, while B and C wait for the ads to work.
 
-Matched members are the people LinkedIn finds at your companies. Under 300 and LinkedIn won't show your ads. Your ad set needs 300 too, after you add job titles and location. LinkedIn also takes a company list only from 300 rows. So at 500 companies, 3 in 5 need a dated signal before the list runs warm.
+Matched members are the people LinkedIn finds at your companies. Under 300 and LinkedIn won't show your ads. Your ad set needs 300 too, after you add job titles and location. LinkedIn also takes a company list only from 300 rows. So at 1,000 companies, 3 in 10 need a dated signal before the list runs warm.
 
 The check also sets aside a holdout, a group of companies you keep away from everything so you have something to compare against. The holdout is 10% of the list or 100 companies, whichever is bigger. It all comes from B, and it's never more than half of B. For the whole quarter those companies get no ads and no messages. Yes, that feels like wasting warm companies. It's the price of a fair test, because at quarter end their meetings are the only clean comparison you'll have. At these sizes only a gap of about 5x shows inside a year (step 5), so keep adding the counts up, quarter after quarter.
 
-The upload still comes first, though. If holding back 100 companies would leave A and B under 300 rows, the holdout gets smaller. Under 350 warm companies there's no holdout at all, so at 500 companies, 7 in 10 need a dated signal first.
+The upload still comes first, though. If holding back 100 companies would leave A and B under 300 rows, the holdout gets smaller. Under 350 warm companies there's no holdout at all, so at 1,000 companies, 7 in 20 need a dated signal first.
 
 ### Step 2. The ads, by list (at launch, re-planned monthly)
 
@@ -205,7 +205,7 @@ Every Monday someone exports four files: Companies, Leads, site visits by compan
 
 On top of the cards, each A company gets written to once, in signal order, from day 7. Log the date in your CRM, and the queue drops that company until it has a new signal.
 
-Once a month someone checks 500 to 1,000 companies for fresh, dated signals and logs each one with its link. The plugin won't find them for you. Any input can stop updating without telling you, so check every file is fresh before you trust the Monday line.
+Once a month someone checks the list, 1,000 companies or more, for fresh, dated signals and logs each one with its link. The plugin won't find them for you. Any input can stop updating without telling you, so check every file is fresh before you trust the Monday line.
 
 ## Install and run
 

@@ -39,7 +39,7 @@ If a column is missing, ask. Do not guess.
 | Holdout | 10% of the list or 100 companies, whichever is larger, from B only. No ads and no messages for the quarter. Never over half of B, and never so large that A plus served B falls under 300 rows. A holdout under 50 companies: none this quarter | my method. The 50: my default | A new quarter |
 | Upload and serving | 300 rows to upload. Serves once 300 members match, not 300 companies. 1,000 or more companies recommended. Matching up to 48 hours, on rare occasions longer | LinkedIn help a423102, read 17 Oct 2026 | LinkedIn changes it |
 | EEA and Switzerland | Only members who opted in are matched, so lists can come out smaller | LinkedIn help a424450, read 17 Oct 2026 | LinkedIn changes it |
-| Size I build | 500 to 1,000 companies a list | my default | Your market |
+| Size I build | 1,000 companies or more a list, 10,000 better | my default | Your market |
 
 ## Steps
 
@@ -72,7 +72,7 @@ Then `list-report.md`, with the A, B and C counts and the upload files.
 
 - C is a fit list, so it runs the cold band like any fit audience.
 - A made-up example: if 1 company in 200 books a meeting in a quarter, a holdout of 100 expects half a meeting. So only read it at quarter end, served B against the holdout, both carved from B.
-- At 500 companies, 3 in 5 need a dated signal before the list runs warm, and 7 in 10 before it can spare a holdout.
+- At 1,000 companies, 3 in 10 need a dated signal before the list runs warm, and 7 in 20 before it can spare a holdout.
 - A company moves down a list at the next monthly refresh. And a replaced list takes up to 48 hours to match again.
 
 ## Limits
