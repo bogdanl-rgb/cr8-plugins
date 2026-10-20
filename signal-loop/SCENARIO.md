@@ -8,9 +8,9 @@ This is the full runbook. The scenario page in The AI Standard: LinkedIn Ads is 
 
 ## For the business owner
 
-**What you get.** Your LinkedIn ads reach only the companies on your list: 1,000 or more that fit your buyer, and 10,000 is better. Each one sits in one of three lists: A has 2 or more dated signals, B has 1, C fits but has none yet. Companies with 2 or more dated signals see your ads from day one, and a person on your team writes to each of them from day 7, in signal order. Every Monday you also get a card for any company that engaged far more than the ads explain, saying what it did and who to write to. An open deal goes to its owner as a note instead. By week 6 you compare engaged companies with the number you wrote down before launch. At quarter end you count meetings in two groups of one-signal companies: those that got your ads, and about 100 you held back.
+**What you get.** Imagine this. Your ads only hit companies on your list: 1,000+ that fit your buyer, 10,000 is better. They sit in three lists. A (VERY HOT) has 2+ dated signals, B (HOT) has 1, C (NOT HOT YET) fits but nothing's happened yet. A sees your ads from day one, and from day 7 a person on your team writes to each of them. Every Monday you also get a card when a company engages way more than normal: what it did, who to write to, etc. Open deals go to the deal owner instead. Week 6, you check engaged companies against the number you wrote down at launch. Quarter end, you compare meetings with about 100 companies you held back. (and scale!)
 
-**Btw, it catches waste first, too.** For ex, one ad set on my own account got 49% of its clicks from people listed at "Stealth AI Startup", 350 of 708 from 7 Aug to 5 Sep 2026. People pick that placeholder page instead of a real employer. The set ran broad and cheap, the opposite of a signal list (meh).
+**Btw, it catches waste first, too.** For ex, one ad set on my own account got 49% of its clicks from people listed at "Stealth AI Startup", 350 of 708 from 7 Aug to 5 Sep 2026. People pick that placeholder page instead of a real employer. The set ran broad and cheap, the opposite of a signal list. Lesson learned.
 
 **What it costs.**
 
@@ -26,7 +26,7 @@ The checks are free. The work is the weekly part, and I run it on your own ad ac
 
 > **Where I disagree with the default**
 >
-> LinkedIn suggests starting broad, with ad sets of at least 50,000 members. I get there differently. My signal lists start at 1,000 companies, at 5 to 10 decision-makers each, so 5,000 to 10,000 people, sorted by a dated reason to buy now. I get to 50,000 and past it with more signal lists side by side, never with wider filters. A filter tells you who. A signal tells you when. Run a company with a fresh signal in the cold band, under 3 to 5 views in 90 days, and it barely sees you right when it has a reason to buy. So I plan about 5 views a person a month: well above the cold band, and up to the floor of the retargeting band over 90 days. Fit-only companies stay cold until a signal shows up.
+> LinkedIn says start broad, 50,000 members or more. It's kinda ok if you don't actually know your ICP or go low-ACV. But. For $10K+ deals, I get there differently. My lists start at 1,000 companies, 5 to 10 decision-makers each, so 5,000 to 10,000 people, sorted by a dated reason to buy now. For 50,000+, I add signal lists side by side, never wider filters. Filter for WHO, signal for WHEN. Treat a company with a fresh signal as cold (3 to 5 views in 90 days) and it barely sees you right when it's ready to buy. So I plan about 5 views a person a month. Fit-only companies stay cold until a signal shows up. Success.
 
 You feed it LinkedIn Campaign Manager's own exports, plus CSVs from your CRM and your site analytics. There are four read-only skills, and each comes with a sample test you can run first. Every threshold says where it comes from: my own account, a LinkedIn help page, or my plan. The placeholder check runs before you read any rate.
 
